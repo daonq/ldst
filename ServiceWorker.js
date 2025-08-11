@@ -1,9 +1,9 @@
 const cacheName = "DMCompany-door_ar_web-0.1.0";
 const contentToCache = [
-    "Build/product.loader.js",
-    "Build/product.framework.js.gz",
-    "Build/product.data.gz",
-    "Build/product.wasm.gz",
+    "Build/ldst.loader.js",
+    "Build/ldst.framework.js",
+    "Build/ldst.data",
+    "Build/ldst.wasm",
     "TemplateData/style.css"
 
 ];
